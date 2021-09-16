@@ -13,4 +13,6 @@ function getRSSFeed(rss_url) {
     }
 }
 
-module.exports = getRSSFeed
+module.exports = { 
+    getRSSFeed 
+}
